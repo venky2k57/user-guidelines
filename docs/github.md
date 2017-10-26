@@ -35,4 +35,4 @@ var fun = function lang(l) {
 - level 1 item
 
 ### Image
-![](https://github.com/venky2k57/user-guidelines/blob/master/images/github/pic1.PNG)
+![](/images/github/pic1.PNG)
