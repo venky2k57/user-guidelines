@@ -1,4 +1,7 @@
 
+---
+layout: default
+---
 # GitHub FAQ's
 
 * Access
