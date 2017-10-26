@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## Header 2
 heading two
 
-### (style="background-color:DodgerBlue;") Header 3
+### Header 3
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
