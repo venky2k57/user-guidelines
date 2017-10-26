@@ -39,3 +39,13 @@ var fun = function lang(l) {
 
 ### Image
 ![](/images/github/pic1.PNG)
+
+# Slaves
+
+| server       | ip          | label |
+|:-------------|:------------------|:------|
+| linux01           | 10.10.10.3 | linux  |
+| linux02 | 10.10.10.1   | linux |
+| zone2_01           | 10.10.10.0 | zone2   |
+
+
