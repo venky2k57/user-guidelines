@@ -38,7 +38,7 @@ var fun = function lang(l) {
 - level 1 item
 
 ### Image
-![](../images/github/pic1.PNG)
+![](/images/github/pic1.PNG)
 
 # Slaves
 
