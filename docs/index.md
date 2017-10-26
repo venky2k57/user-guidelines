@@ -1,4 +1,4 @@
-# [GitHub](gitHub.md)
+# [GitHub](github.md)
 
 # [Jenkins](jenkins.md)
 
